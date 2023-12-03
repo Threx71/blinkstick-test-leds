@@ -27,5 +27,6 @@ Follow the on-screen instructions to start the LED test.
 Contributions to this project are welcome. Please ensure to update tests as appropriate.
 
 ## License
+GNU GENERAL PUBLIC LICENSE
 
 
